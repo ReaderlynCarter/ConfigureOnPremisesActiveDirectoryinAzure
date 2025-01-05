@@ -53,11 +53,12 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 ### Part 3: Join Client-1 to the Domain
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=0I8dOcsaoBM">
-    <img src="https://img.youtube.com/vi/0I8dOcsaoBM/0.jpg" alt="Join Client 1 to the Domain"/>
-  </a>
+  <a href="https://youtu.be/QB4B-Zthn8I">
+    
+  ![image](https://github.com/user-attachments/assets/def78b95-e459-44ae-8781-8ca17d5b9957)
+ </a>
 </p>
- *Click the image or  <a href="https://www.youtube.com/watch?v=0I8dOcsaoBM">here</a> to watch a video demo.*
+ *Click the image or  <a href="https://youtu.be/QB4B-Zthn8I">here</a> to watch a video demo.*
 
 ---
 
