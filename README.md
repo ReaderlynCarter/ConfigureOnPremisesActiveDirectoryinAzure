@@ -41,11 +41,12 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 ### Part 2: Create a Domain Admin User and Organizational Units (OUs)
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=MLY4QmCw8rU">
-    <img src="https://img.youtube.com/vi/MLY4QmCw8rU/0.jpg" alt="Create a Domain Admin User and Organizational Units OUs"/>
-  </a>
+  <a href="https://youtu.be/9DVuWfY3K4Q">
+
+  ![image](https://github.com/user-attachments/assets/dde8a2fb-cb9d-4242-8171-2b034e644000)
+ </a>
 </p>
-*Click the image or  <a href="https://www.youtube.com/watch?v=MLY4QmCw8rU">here</a> to watch a video demo.*
+*Click the image or  <a href="https://youtu.be/9DVuWfY3K4Q">here</a> to watch a video demo.*
   
 
 ---
