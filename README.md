@@ -64,11 +64,12 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 ### Part 4: Create Additional Users and Verify Access
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=Rsxgx2KKQYY">
-    <img src="https://img.youtube.com/vi/Rsxgx2KKQYY/0.jpg" alt="Create Additional Users and Verify Access"/>
-  </a>
+  <a href="https://youtu.be/mCuzDR5uV-k">
+  
+![image](https://github.com/user-attachments/assets/06ed4d14-7c54-4c92-9d5e-ef691e1a98a8)
+ </a>
 </p> 
-*Click the image or  <a href="https://www.youtube.com/watch?v=Rsxgx2KKQYY">here</a> to watch a video demo.*
+*Click the image or  <a href="https://youtu.be/mCuzDR5uV-k">here</a> to watch a video demo.*
 
 
 ---
