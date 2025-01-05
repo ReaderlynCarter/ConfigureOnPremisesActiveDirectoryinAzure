@@ -30,11 +30,12 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 ### Part 1: Install Active Directory
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=dlEwCL-hk9M">
-    <img src="https://img.youtube.com/vi/dlEwCL-hk9M/0.jpg" alt="Install Active Directory and Promote to Domain Controller"/>
-  </a>
+  <a href="https://youtu.be/ZhRZfyAoKXo">
+  
+ ![image](https://github.com/user-attachments/assets/33543d71-69be-43fe-9ff2-ed766cfcccbf)
+ </a>
 </p>
-*Click the image or  <a href="https://www.youtube.com/watch?v=dlEwCL-hk9M">here</a> to watch a video demo.*
+*Click the image or  <a href="https://youtu.be/ZhRZfyAoKXo">here</a> to watch a video demo.*
 
 ---
 
